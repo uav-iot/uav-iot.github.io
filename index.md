@@ -23,7 +23,7 @@ _Unmanned Aerial Vehicles and IoT (UAV-IoT) 2025_
 **Co-located with [MASS 2025](https://ieeemass2025.github.io/ieeemass2025/index.html)**
 {: style="text-align: center"}
 
-**Submission link: [click here]()**
+**Submission link: TBA**
 {: style="text-align: center"}
 
 
@@ -94,9 +94,9 @@ be published in the workshop proceedings.
 
 ### Steering Committee
 {: style="color:#32a852"}
-- **Pinotti Maria Cristina**: University of Perugia, Italy
-- **Sajal K. Das**: Missouri University of Science and Technology, USA
-- **Ljiljana Trajkovic**: Simon Fraser University, Canada
+- **Pinotti Maria Cristina**: TBA
+- **Sajal K. Das**: TBA
+- **Ljiljana Trajkovic**: TBA
   
 ### Program Committee
 {: style="color:#32a852"}

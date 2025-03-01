@@ -94,9 +94,7 @@ be published in the workshop proceedings.
 
 ### Steering Committee
 {: style="color:#32a852"}
-- **Pinotti Maria Cristina**: TBA
-- **Sajal K. Das**: TBA
-- **Ljiljana Trajkovic**: TBA
+- TBA
   
 ### Program Committee
 {: style="color:#32a852"}

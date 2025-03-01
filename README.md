@@ -1,13 +1,13 @@
 # __International Workshop on Unmanned Autonomous Vehicles and IoT (UAV-IoT)__
 
-## UAV-IoT 2024
+## UAV-IoT 2025
 
 _International Workshop on_
-_Unmanned Autonomous Vehicles and IoT (UAV-IoT) 2024_
+_Unmanned Autonomous Vehicles and IoT (UAV-IoT) 2025_
 
 
-**September 23 - 25, 2024**
+**October 6-8, 2025**
 
-**co-located with [MASS 2024](https://sites.google.com/view/ieee-mass-2024)**
+**co-located with [MASS 2025](https://ieeemass2025.github.io/ieeemass2025/)**
 
-**Submission link: [click here](TBD)**
+**Submission link: TBA**

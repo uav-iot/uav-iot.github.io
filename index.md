@@ -94,7 +94,9 @@ be published in the workshop proceedings.
 
 ### Steering Committee
 {: style="color:#32a852"}
-- TBA
+- **Pinotti Maria Cristina**: University of Perugia, Italy
+- **Sajal K. Das**: Missouri University of Science and Technology, USA
+
   
 ### Program Committee
 {: style="color:#32a852"}

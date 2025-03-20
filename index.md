@@ -64,9 +64,9 @@ to) topics:
 ## Important Dates
 {: style="color:#32a852"}
 
-- **Paper Submission**: TBD
-- **Acceptance Notification**:  TBD 
-- **Camera Ready Deadline**: TBD <!--firm - [Instructions](https://ieeemass2025.github.io/ieeemass2025/submission.html) -->
+- **Workshop Paper Submission Deadlin**: Monday, June 30, 2025
+- **Paper Acceptance Notification**:  Friday, July 31, 2025 
+- **Camera-ready Version**: Friday, August 7, 2025 <!--firm - [Instructions](https://ieeemass2025.github.io/ieeemass2025/submission.html) -->
 - **Workshop Day**: TBA
 
 
@@ -100,11 +100,15 @@ be published in the workshop proceedings.
   
 ### Program Committee
 {: style="color:#32a852"}
-- TBD
+- 
 
 ### Publicity Chair
 {: style="color:#32a852"}
-- TBD
+- **Avirup Das**: Singapore University of Technology and Design (SUTD), Singapore
+- **Lorenzo Palazzetti**: University of Florence, Italy
+- **Francesco Betti Sorbelli**: University of Perugia, Italy
+- **Sajjad Ghobadi**: University of Perugia, Italy
+- **Michela Meo**: Politecnico di Torino, Italy
 
 ### Web Chair
 {: style="color:#32a852"}

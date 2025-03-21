@@ -100,15 +100,16 @@ be published in the workshop proceedings.
   
 ### Program Committee
 {: style="color:#32a852"}
-- 
-
-### Publicity Chair
-{: style="color:#32a852"}
 - **Avirup Das**: Singapore University of Technology and Design (SUTD), Singapore
 - **Lorenzo Palazzetti**: University of Florence, Italy
 - **Francesco Betti Sorbelli**: University of Perugia, Italy
 - **Sajjad Ghobadi**: University of Perugia, Italy
 - **Michela Meo**: Politecnico di Torino, Italy
+
+
+### Publicity Chair
+{: style="color:#32a852"}
+- TBD
 
 ### Web Chair
 {: style="color:#32a852"}

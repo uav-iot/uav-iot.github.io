@@ -105,7 +105,7 @@ be published in the workshop proceedings.
 - **Francesco Betti Sorbelli**: University of Perugia, Italy
 - **Sajjad Ghobadi**: University of Perugia, Italy
 - **Michela Meo**: Politecnico di Torino, Italy
-
+- **Arindam Khanda**: Missouri S&T, USA
 
 ### Publicity Chair
 {: style="color:#32a852"}

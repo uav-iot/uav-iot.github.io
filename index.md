@@ -109,7 +109,8 @@ be published in the workshop proceedings.
 
 ### Publicity Chair
 {: style="color:#32a852"}
-- TBD
+- **Arindam Khanda**: Missouri S&T, USA
+
 
 ### Web Chair
 {: style="color:#32a852"}

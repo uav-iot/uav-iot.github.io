@@ -23,7 +23,7 @@ _Unmanned Aerial Vehicles and IoT (UAV-IoT) 2025_
 **Co-located with [MASS 2025](https://ieeemass2025.github.io/ieeemass2025/index.html)**
 {: style="text-align: center"}
 
-**Submission link: TBA**
+**Submission link: [click here](https://edas.info/N33811)**
 {: style="text-align: center"}
 
 

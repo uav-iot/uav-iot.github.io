@@ -64,9 +64,10 @@ to) topics:
 ## Important Dates
 {: style="color:#32a852"}
 
-- **Workshop Paper Submission Deadline**: Monday, June 30, 2025
-- **Paper Acceptance Notification**:  Friday, July 31, 2025 
-- **Camera-ready Version**: Friday, August 7, 2025 <!--firm - [Instructions](https://ieeemass2025.github.io/ieeemass2025/submission.html) -->
+- **~~Workshop Paper Submission Deadline**: Monday, June 30, 2025~~**
+- **Workshop Paper Submission (Extended) Deadline**: July 15, 2025
+- **Paper Acceptance Notification**:  August 7, 2025
+- **Camera-ready Version**: August 15, 2025 <!--firm - [Instructions](https://ieeemass2025.github.io/ieeemass2025/submission.html) -->
 - **Workshop Day**: TBA
 
 

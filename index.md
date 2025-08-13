@@ -117,9 +117,16 @@ be published in the workshop proceedings.
 {: style="color:#32a852"}
 - **Lorenzo Perinello**: University of Padova, Italy
 
-<!-- ## Accepted Papers
+## Accepted Papers
 {: style="color:#32a852"} 
-  
+
+- **IoT-Enabled Control Room for Coordinated UAV Fleet Management**, Manuel Delucchi (University of Genoa, Italy); Gianni Vercelli (University of Genoa - DIBRIS, Italy); Subhransu Sourav Priyadarshan (University of Genoa, Italy);
+- **Urban Roads and Aerial Autonomy: are Drones Safe Above Busy Roads?**, Papiya Das (University of Florence, Italy); Francesco Betti Sorbelli (University of Perugia, Italy); Punyasha Chatterjee (Jadavpur University, India); Cristina M. Pinotti (University of Perugia, Italy);
+- **A Priority-Based Spectrum Allocation Method for Centralized UAV Networks**, Jacob H. Zawadzki and Mohammed A Jasim (University of Washington Tacoma, USA);
+- **Probabilistic Model for Communication Mode Selection for Autonomous Multi-UAV Systems**, Mohand Hamadouche (Lab-STICC, University of Bretagne Occidentale, France); Catherine Dezan (Univ Bretagne Occidentale/Lab-STICC, France); David Espes (University of Brest & LabSTICC, France); Kalinka Branco (USP - University of São Paulo, Brazil);
+- **Mobility-Aware Orchestration for UAV-Enabled IoT Networks in Emergency Scenarios**, Alexandre Heideker (University of Bologna, Italy & Federal University of the ABC, Brazil); Giovanni Interdonato (University of Cassino and Southern Lazio, Italy & CNIT, Italy); Sara Pizzi and Antonella Molinaro (University Mediterranea of Reggio Calabria, Italy); Angelo Trotta (University of Bologna, Italy).
+
+<!-- 
 ## Program
 {: style="color:#32a852"}
 -->

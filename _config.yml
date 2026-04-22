@@ -27,7 +27,11 @@ navbar-links:
   # Author Information: /#author-information
   Committees: /#committees
   Accepted Papers: /#accepted-papers
-  
+  Past Editions:
+    - UAV-IoT 2025: /2025/
+    - UAV-IoT 2024: https://iwuav-iot.github.io/
+    - UAV-IoT 2023: https://sites.google.com/view/ieee-mass-uav-iot-2023/home
+
 
 ################
 # --- Logo --- #
@@ -82,7 +86,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: International Workshop on Unmanned Autonomous Vehicles and IoT (UAV-IoT) 2025
+rss-description: International Workshop on Unmanned Aerial Vehicles and IoT (UAV-IoT) 2026
 
 
 

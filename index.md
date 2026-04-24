@@ -100,7 +100,7 @@ should not exceed 6 pages in length. The papers should follow the IEEE conferenc
 format. All papers will be reviewed by the program committee and accepted papers will
 be published in the workshop proceedings.
 
-Extended versions of selected papers will be considered for submission to the special issue of the ACM Journal on Autonomous Transportation Systems ([JATS](https://dl.acm.org/pb-assets/static_journal_pages/jats/pdf/ACM-JATS-CfP-SI-NAVCGDE.pdf)).
+Extended versions of selected papers will be considered for submission to the special issue of ACM [JATS](https://dl.acm.org/pb-assets/static_journal_pages/jats/pdf/ACM-JATS-CfP-SI-NAVCGDE.pdf).
 
 {: style="text-align: justify"}
 
@@ -115,14 +115,7 @@ Extended versions of selected papers will be considered for submission to the sp
 
 ### Program Committee
 {: style="color:#32a852"}
-- **Francesco Betti Sorbelli**: University of Perugia, Italy
-- **Avirup Das**: Singapore University of Technology and Design (SUTD), Singapore
-- **Michela Meo**: Politecnico di Torino, Italy
-- **Lorenzo Palazzetti**: University of Florence, Italy
-- **Koushik Sinha**: Southern Illinois University, USA
-- **Arindam Khanda**: Missouri S&T, USA
-- **Zhuhui Li**: University of Exeter, UK
-- **Jia Wu**: University of Exeter, UK
+- TBA
 
 ### Publicity Chair
 {: style="color:#32a852"}

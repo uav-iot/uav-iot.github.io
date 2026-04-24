@@ -23,7 +23,7 @@ _Unmanned Aerial Vehicles and IoT (UAV-IoT) 2026_
 **Co-located with [IEEE MASS 2026](https://mass-conf.github.io/2026/)**
 {: style="text-align: center"}
 
-**Submission link: [https://edas.info/N35076](https://edas.info/N35076)**
+**Submission link: TBA**
 {: style="text-align: center"}
 
 

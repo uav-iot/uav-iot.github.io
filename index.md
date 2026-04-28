@@ -94,12 +94,18 @@ The workshop will focus on the following (but not limited to) topics:
 ## Author Information
 {: style="color:#32a852"}
 
-Prospective authors are invited to submit original and unpublished research papers that
-are not currently under review elsewhere. The papers should be written in English and
-should not exceed 6 pages in length. The papers should follow the IEEE conference
-format. All papers will be reviewed by the program committee and accepted papers will
-be published in the workshop proceedings.
+### Submission Requirements
+{: style="color:#32a852"}
+- Original and unpublished work, not currently under review elsewhere
+- Written in English
+- Maximum **6 pages**, in **IEEE conference format**
 
+### Review and Publication
+{: style="color:#32a852"}
+All submissions will be reviewed by the Program Committee. Accepted papers will be published in the workshop proceedings.
+
+### Journal Special Issue
+{: style="color:#32a852"}
 Extended versions of selected papers will be considered for submission to the special issue of ACM [JATS](https://dl.acm.org/pb-assets/static_journal_pages/jats/pdf/ACM-JATS-CfP-SI-NAVCGDE.pdf) — *Special Issue for Navigation for Autonomous Vehicles in Complex and GPS-Denied Environments*.
 
 {: style="text-align: justify"}

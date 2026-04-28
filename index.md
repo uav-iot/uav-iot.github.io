@@ -100,7 +100,7 @@ should not exceed 6 pages in length. The papers should follow the IEEE conferenc
 format. All papers will be reviewed by the program committee and accepted papers will
 be published in the workshop proceedings.
 
-Extended versions of selected papers will be considered for submission to the special issue of ACM [JATS](https://dl.acm.org/pb-assets/static_journal_pages/jats/pdf/ACM-JATS-CfP-SI-NAVCGDE.pdf).
+Extended versions of selected papers will be considered for submission to the special issue of ACM [JATS](https://dl.acm.org/pb-assets/static_journal_pages/jats/pdf/ACM-JATS-CfP-SI-NAVCGDE.pdf) — *Special Issue for Navigation for Autonomous Vehicles in Complex and GPS-Denied Environments*.
 
 {: style="text-align: justify"}
 

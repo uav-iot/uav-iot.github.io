@@ -123,9 +123,10 @@ Extended versions of selected papers will be considered for submission to the sp
 {: style="color:#32a852"}
 - TBA
 
-### Publicity Chair
+### Publicity Chairs
 {: style="color:#32a852"}
-- TBA
+- **Xiaoyang Wang**: University of Exeter, UK
+- **Keiwan Soltani**: Missouri University of Science & Technology, Rolla, USA
 
 ### Web Chair
 {: style="color:#32a852"}

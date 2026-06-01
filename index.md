@@ -119,6 +119,11 @@ Extended versions of selected papers will be considered for submission to the sp
 - **Federico Corò**: University of Padova, Italy
 - **Chunbo Luo**: University of Exeter, UK
 
+### Steering Committee
+{: style="color:#32a852"}
+- **Pinotti Maria Cristina**: University of Perugia, Italy
+- **Sajal K. Das**: Missouri University of Science and Technology, USA
+
 ### Program Committee
 {: style="color:#32a852"}
 - TBA

@@ -126,7 +126,11 @@ Extended versions of selected papers will be considered for submission to the sp
 
 ### Program Committee
 {: style="color:#32a852"}
-- TBA
+- **Francesco Betti Sorbelli**: University of Perugia, Italy
+- **Michela Meo**: Politecnico di Torino, Italy
+- **Lorenzo Palazzetti**: University of Florence, Italy
+- **Koushik Sinha**: Southern Illinois University, USA
+- **Arindam Khanda**: Missouri S&T, USA
 
 ### Publicity Chairs
 {: style="color:#32a852"}

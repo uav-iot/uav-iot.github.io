@@ -128,7 +128,7 @@ Extended versions of selected papers will be considered for submission to the sp
 {: style="color:#32a852"}
 - **Francesco Betti Sorbelli**: University of Perugia, Italy
 - **Michela Meo**: Politecnico di Torino, Italy
-- **Lorenzo Palazzetti**: University of Florence, Italy
+- **Lorenzo Palazzetti**: Penn State University, USA
 - **Koushik Sinha**: Southern Illinois University, USA
 - **Arindam Khanda**: Missouri S&T, USA
 

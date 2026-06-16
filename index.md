@@ -132,6 +132,7 @@ Extended versions of selected papers will be considered for submission to the sp
 - **Koushik Sinha**: Southern Illinois University, USA
 - **Arindam Khanda**: Missouri S&T, USA
 - **Zhuhui Li**: University of Exeter, UK
+- **Deepak Kumar Panda**: Cranfield University, UK
 
 ### Publicity Chairs
 {: style="color:#32a852"}

@@ -83,10 +83,14 @@ The workshop will focus on the following (but not limited to) topics:
 ## Important Dates
 {: style="color:#32a852"}
 
-- **Workshop Paper Submission Deadline**: July 31, 2026
-- **Paper Acceptance Notification**: August 15, 2026
-- **Camera-ready Version**: August 31, 2026
+- ~~**Workshop Paper Submission Deadline**: July 31, 2026~~
+- **Workshop Paper Submission (Extended) Deadline**: **August 31, 2026 (AOE)**
+- **Paper Acceptance Notification**: TBA
+- **Camera-ready Version**: TBA
 - **Workshop Day**: TBA (within October 21-23, 2026)
+
+Due to many requests, the submission deadline for all IEEE MASS 2026 workshops has been extended to **August 31, 2026 (AOE)** on EDAS. Updated notification and camera-ready dates will be announced.
+{: style="text-align: justify"}
 
 
 * * *
